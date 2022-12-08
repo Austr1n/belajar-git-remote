@@ -1,5 +1,3 @@
 Menambah File 1
 asdasdasdasd
-Feature apaasdasdasd
-asdasdasdasdasdas
-asd
+Feature yang benar
